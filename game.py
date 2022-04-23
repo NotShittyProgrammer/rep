@@ -7,6 +7,10 @@ mixer.music.load('space.ogg')
 mixer.music.play()
 fire_sound = mixer.Sound('fire.ogg')
 
+
+
+
+
 #шрифты и надписи
 font.init()
 font2 = font.Font(None, 36)
